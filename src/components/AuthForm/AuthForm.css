@@ -1,0 +1,11 @@
+.authform {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+label {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 20px;
+}
